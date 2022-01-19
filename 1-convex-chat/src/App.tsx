@@ -26,7 +26,7 @@ export default function App() {
     <main className="py-4">
       <h1 className="text-center">Convex Chat</h1>
       <p className="text-center">
-        <span>Redeploy #1</span>
+        <span>Redeploy #2</span>
       </p>
       <p className="text-center">
         <span className="badge bg-dark">{randomName}</span>
